@@ -18,3 +18,7 @@ MiscAnno.xla - miscellaneous macros to facilitate annotation tasks
 * Delete line - programmatically delete the line that the cursor is own without marking it
 * Insert line - programmatically insert a new line at the cursor position
 * Fill zeros where cells in selection are empty (useful for sparse matrices in cross tabulation)
+
+exmaralda_io_0.9.8.1 - Legacy version of corpus linguistics format converter for Windows Excel
+* Should hopefully be replaced soon by updated multiformat converter version
+* See documentation in README_exmaralda_io_0.9.8.1.pdf
