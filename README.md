@@ -27,3 +27,7 @@ UnderOverUse_V1.2.xla - Legacy version of a conditional formatting script for nu
 * Highlights values of cells in warm/cold colors by deviation from control column values
 * Thresholds are configurable (see underuse_overuse.pdf)
 * Mostly reproduceable using conditional formatting in newer versions of Excel
+
+Schemas for ValidateAnnotation.xla (Coptic SCRIPTORIUM only)
+* validate_ms.txt validates files created from Coptic manuscripts according to Coptic SCRIPTORIUM standards
+* validate_bible.txt validates files created from biblical editions (not manuscripts) such as Sahidica according to Coptic SCRIPTORIUM standards
