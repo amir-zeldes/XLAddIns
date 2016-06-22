@@ -19,9 +19,9 @@ MiscAnno.xla - miscellaneous macros to facilitate annotation tasks
 * Insert line - programmatically insert a new line at the cursor position
 * Fill zeros where cells in selection are empty (useful for sparse matrices in cross tabulation)
 
-exmaralda_io_0.9.8.1.xla - Legacy version of corpus linguistics format converter for Windows Excel
-* Should hopefully be replaced soon by updated multiformat converter version
-* See documentation in README_exmaralda_io_0.9.8.1.pdf
+exmaralda_io_0.9.9.3.xla - Corpus linguistics format converter for Windows Excel
+* Somewhat misnamed, as it supports not only EXMARaLDA XML but also PTB brackets, conll10 dependencies, PAULA XML, TreeTagger SGML and more
+* See documentation in README_exmaralda_io_0.9.9.3.pdf
 
 UnderOverUse_V1.2.xla - Legacy version of a conditional formatting script for number comparisons
 * Highlights values of cells in warm/cold colors by deviation from control column values
