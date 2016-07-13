@@ -9,6 +9,7 @@ ValidateAnnotation.xla - uses a schema file to check for each column header (e.g
 * A worksheet "meta" must contain annotation names in first column (require:meta(title,author,...))
 * Span of "sentence" must include all rows of overlapping "word" cell (sentence>word)
 * You may also use either/or in headers like this: sent|sent_n>translation
+* You can enfore cells in a column always being filled, e.g. to ensure the data is 'plated' with line annotations, via full:anno1,anno2,...
 
 MiscAnno.xla - miscellaneous macros to facilitate annotation tasks
 * Auto merge down - merge cells in selection with any empty cells under them
